@@ -18,3 +18,4 @@ I'm Jim Tarsi. I've been in software-related industries most of my career. This 
 The rules are in the file "Mating Season Rules.docx" and "Mating Season Rules.txt".
 
 [Mating Season Rules.docx](https://github.com/jimmyjot/jimmyjot/files/8960423/Mating.Season.Rules.docx)
+[Mating Season Rules.txt](https://github.com/jimmyjot/jimmyjot/files/8960435/Mating.Season.Rules.txt)
