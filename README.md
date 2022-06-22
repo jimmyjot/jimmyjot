@@ -14,8 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Jim Tarsi. I've been in software-related industries most of my career. This GitHub site is for personal projects, mostly games. I'm currently working on an application for a game called Mating Season, which was described in a Games magazine many years ago.
-The rules are in the file "Mating Season Rules.docx" and "Mating Season Rules.txt".
-
-[Mating Season Rules.docx](https://github.com/jimmyjot/jimmyjot/files/8960423/Mating.Season.Rules.docx)
-[Mating Season Rules.txt](https://github.com/jimmyjot/jimmyjot/files/8960435/Mating.Season.Rules.txt)
+I'm Jim Tarsi. I've been in software-related industries most of my career. This GitHub site is for personal projects, mostly games.
